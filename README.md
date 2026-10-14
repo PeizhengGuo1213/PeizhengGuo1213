@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Peizheng Guo 👋</h1>
 
 <p align="center">
-  <b>Graduate Student · Institute of Software, Chinese Academy of Sciences</b><br>
+  <b>Ph.D. Student · Institute of Software, Chinese Academy of Sciences</b><br>
   University of Chinese Academy of Sciences
 </p>
 
@@ -15,7 +15,7 @@
 
 ### About Me
 
-I am a graduate student at the **Institute of Software, Chinese Academy of Sciences (ISCAS)** and the **University of Chinese Academy of Sciences (UCAS)**.
+I am a Ph.D. student at the **Institute of Software, Chinese Academy of Sciences (ISCAS)** and the **University of Chinese Academy of Sciences (UCAS)**.
 
 My research focuses on **embodied intelligence**, **reinforcement learning**, and **multimodal learning**. I am particularly interested in causal reasoning, uncertainty-aware optimization, and learning reliable policies for foundation models and robotic agents.
 
