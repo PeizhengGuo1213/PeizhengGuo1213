@@ -1,53 +1,61 @@
-<h2 align="center">👋 Hello! I'm Peizheng Guo.</h2>
-<!-- <p align="center">
-  <a href="https://www.researchgate.net/profile/Jingyao-Wang-15">ResearchGate</a> •
-  <a href="https://www.zhihu.com/people/wang-dou-ya-11">Blog</a> •
-  <a href="https://scholar.google.com/citations?user=btThEsYAAAAJ&hl=zh-CN">GoogleScholar</a>
-</p> -->
+<h1 align="center">Hi, I'm Peizheng Guo 👋</h1>
 
-[![GoogleScholar](https://img.shields.io/badge/Google-Research-blue?style=flat-square&logo=google&logoColor=white)](https://scholar.google.com/citations?hl=zh-CN&user=1nVBNtIAAAAJ)
-[![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life)
-[![My job](https://img.shields.io/badge/My%20job-M.Sc.-success?style=flat-square&logo=microgenetics&logoColor=white)](http://www.is.cas.cn/)
-![pv](https://pageview.vercel.app/?github_user=A-why)
-
-- 😄 I'm new at research
-- 🔭 I’m currently study at [ISCAS](http://www.is.cas.cn/) as a postgraduate student
-- 🌱 I’m currently interested in **Domain Generalization, Multi-Modal Learning**
-- 💬 Ask me about **Anything**
-- 📫 How to reach me: email: <guopeizheng24@mails.ucas.ac.cn>
-
-
-## **Universities and Institutions:** 
-
-<p align="center"> 
-    <a href="https://www.dlut.edu.cn/" target="_blank" rel="noreferrer"> <img src="https://www.dlut.edu.cn/__local/A/6D/07/5B622F3A66982C281B72CD2AD7F_A4754272_24AE4.jpg" alt="dlut" width="75" height="75"/> </a> &nbsp;
-   <a href="https://www.ucas.ac.cn/" target="_blank" rel="noreferrer"> <img src="https://github.com/WangJingyao07/WangJingyao07/assets/45681444/fa2e4aee-58e5-481a-b869-53b5582bc42f" alt="ucas" width="70" height="65"/> </a> &nbsp;
-   <a href="http://www.iscas.ac.cn/" target="_blank" rel="noreferrer"> <img src="https://github.com/WangJingyao07/WangJingyao07/assets/45681444/5b1df337-891b-4b2b-9758-ddb3a63fc547" alt="iscas" width="80" height="70"/> </a> 
+<p align="center">
+  <b>Graduate Student · Institute of Software, Chinese Academy of Sciences</b><br>
+  University of Chinese Academy of Sciences
 </p>
- 
 
-## **Languages and Tools:** 
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=1nVBNtIAAAAJ&hl=en"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white"></a>
+  <a href="mailto:guopeizheng24@mails.ucas.ac.cn"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/PeizhengGuo1213?tab=repositories"><img alt="GitHub" src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white"></a>
+</p>
 
-<div align="center">
-  <img align="center"  height="45" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center"  height="45" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center"  height="45" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center"  height="45" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
-  <img align="center"  height="45" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
-  <img align="center"  height="45" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-</div>
+---
 
+### About Me
 
-![Peizheng Guo's Github Stars](https://github-readme-stats.vercel.app/api?username=A-why&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-why&hide=TeX&layout=compact)
+I am a graduate student at the **Institute of Software, Chinese Academy of Sciences (ISCAS)** and the **University of Chinese Academy of Sciences (UCAS)**.
 
-</table>
+My research focuses on **embodied intelligence**, **reinforcement learning**, and **multimodal learning**. I am particularly interested in causal reasoning, uncertainty-aware optimization, and learning reliable policies for foundation models and robotic agents.
 
-<table>
-  <tr>
-    <td align="center">
-      <details open><summary>Worldmap</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.worldmap.svg" alt=""></img></details>
-    </td>
-  </tr>
-  <tr>
-  <td>
+### Research Interests
+
+- **Embodied AI:** Vision-Language-Action (VLA) models, world models, and robotic policy learning.
+- **Reinforcement Learning:** Policy optimization and post-training of large language and multimodal models.
+- **Reliable Machine Learning:** Causal reasoning, gradient uncertainty, and multimodal representation learning.
+
+### Selected Publications
+
+**2026**
+
+- **[GUPO: Gradient Uncertainty-aware Policy Optimization for Post-Training Large Language Models](https://arxiv.org/abs/2608.17411)**  
+  **Peizheng Guo**, Jianqi Zhang, Xingyu Zhang, Yun Fan, Jiahuan Zhou, Changwen Zheng, Wenwen Qiang. *arXiv preprint, 2026.*
+
+- **[PAPO-VLA: Planning-Aware Policy Optimization for Vision-Language-Action Models](https://arxiv.org/abs/2605.19580)**  
+  **Peizheng Guo**, Jingyao Wang, Changwen Zheng, Wenwen Qiang. *arXiv preprint, 2026.*
+
+- **[Exploring Transferability of Self-Supervised Learning by Task Conflict Calibration](https://ojs.aaai.org/index.php/AAAI/article/view/39291)**  
+  Huijie Guo, Jingyao Wang, **Peizheng Guo**, Xingchen Shen, Changwen Zheng, Wenwen Qiang. *AAAI 2026.*
+
+- **[Towards Generalizable Reasoning: Group Causal Counterfactual Policy Optimization for LLM Reasoning](https://arxiv.org/abs/2602.06475)**  
+  Jingyao Wang, **Peizheng Guo**, Wenwen Qiang, Jiahuan Zhou, Huijie Guo, Changwen Zheng, Hui Xiong. *arXiv preprint, 2026.*
+
+**2025**
+
+- **[COPO: Causal-Oriented Policy Optimization for Hallucinations of MLLMs](https://arxiv.org/abs/2508.04182)**  
+  **Peizheng Guo**, Jingyao Wang, Wenwen Qiang, Jiahuan Zhou, Changwen Zheng, Gang Hua. *arXiv preprint, 2025.*
+
+- **[Rethinking Multi-Modal Learning from Gradient Uncertainty](https://arxiv.org/abs/2505.23071)**  
+  **Peizheng Guo**, Jingyao Wang, Wenwen Qiang, Jiahuan Zhou, Changwen Zheng, Gang Hua. *arXiv preprint, 2025; updated 2026.*
+
+See [Google Scholar](https://scholar.google.com/citations?user=1nVBNtIAAAAJ&hl=en) for an up-to-date publication list.
+
+### Open-Source Projects
+
+- **[Awesome-GRPO](https://github.com/PeizhengGuo1213/Awesome-GRPO)** — A collection of GRPO-related papers, implementations, and resources for reinforcement learning fine-tuning.
+- **[CausalWAM-Cosmos](https://github.com/PeizhengGuo1213/CausalWAM-Cosmos)** — Research repository for causal optimization in world-action models (*work in progress*).
+
+### Contact
+
+For academic discussions and research collaborations, please contact me at **[guopeizheng24@mails.ucas.ac.cn](mailto:guopeizheng24@mails.ucas.ac.cn)**.
