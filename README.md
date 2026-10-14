@@ -51,10 +51,6 @@ My research focuses on **embodied intelligence**, **reinforcement learning**, an
 
 See [Google Scholar](https://scholar.google.com/citations?user=1nVBNtIAAAAJ&hl=en) for an up-to-date publication list.
 
-### Open-Source Projects
-
-- **[Awesome-GRPO](https://github.com/PeizhengGuo1213/Awesome-GRPO)** — A collection of GRPO-related papers, implementations, and resources for reinforcement learning fine-tuning.
-- **[CausalWAM-Cosmos](https://github.com/PeizhengGuo1213/CausalWAM-Cosmos)** — Research repository for causal optimization in world-action models (*work in progress*).
 
 ### Contact
 
